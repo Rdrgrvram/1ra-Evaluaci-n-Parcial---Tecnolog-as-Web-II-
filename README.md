@@ -1,7 +1,7 @@
 
 # Backend Sample - Node.js, Express.js y MongoDB
 
-Este es un backend básico que permite gestionar las colecciones **Usuarios** y **Productos** en una base de datos MongoDB llamada `sample`.
+Este es un backend que permite gestionar las colecciones Usuarios y Productos en una base de datos MongoDB llamada `sample`.
 
 ## Tecnologías utilizadas
 - Node.js
@@ -57,8 +57,6 @@ npm start
 
 ## Pruebas con Postman / Insomnia
 
-Prueba las siguientes rutas enviando datos en formato JSON.
-
 ### Ejemplo de JSON para Usuarios (POST /usuarios)
 ```
 {
@@ -77,9 +75,5 @@ Prueba las siguientes rutas enviando datos en formato JSON.
 }
 ```
 
-## Capturas de prueba
-(Adjuntar capturas de pantalla de las pruebas realizadas en Postman o Insomnia con los resultados exitosos)
 
----
-
-Desarrollado por: [Tu Nombre]
+Desarrollado por: Rodrigo Gabriel Rivera Mayan
